@@ -1,3 +1,3 @@
 ## completed lessons:
 
-15: cssgrid
+chapter 15: cssgrid layout
